@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: azure;
+  margin-top: 30px;
+  width: 100%;
+}
+
+#rate {
+  width: 90%;
+}
+#pitch {
+  width: 90%;
+}
